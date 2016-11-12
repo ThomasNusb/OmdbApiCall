@@ -1,0 +1,12 @@
+body {
+	margin: 8px;
+}
+
+th:not(:first-child), td:not(:first-child){
+	text-align: center;
+}
+
+img {
+	height: 150px;
+}
+
